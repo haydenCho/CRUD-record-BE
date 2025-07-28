@@ -1,16 +1,21 @@
-## 💬 관련 이슈
+## ⛓️ Related Issues
 
 
 <br/>
 
-## 💡 작업 내용
+## 🔥 what to do
 
 
 <br/>
 
-## ❓ 고민한 점
+## 🪄 Changes in the project
 
 
 <br/>
 
-## 📗 참고 자료
+## ✅ How to Test
+
+
+<br/>
+
+## 👀 References
