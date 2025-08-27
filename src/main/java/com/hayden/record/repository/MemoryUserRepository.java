@@ -1,10 +1,12 @@
 package com.hayden.record.repository;
 
 import com.hayden.record.domain.User;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicLong;
 
+@Repository
 public class MemoryUserRepository implements UserRepository{
 
     private static final Map<Long, User> store = new HashMap<>();
